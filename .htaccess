@@ -1,0 +1,16 @@
+#Options All -Indexes
+
+#RewriteEngine On
+
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#RewriteCond %{HTTP_HOST} ^www.grmax.com.ar [NC]
+#RewriteRule ^(.*)$ https://grmax.com.ar/$1 [L,R=301]
+#RewriteRule ^([-a-zA-Z0-9áéíóúñ/=]+)$ index.php?ruta=$1
+
+Options All -Indexes
+
+RewriteEngine On
+
+RewriteRule ^([-a-zA-Z0-9áéíóúñ/=]+)$ index.php?page=$1

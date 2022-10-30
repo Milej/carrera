@@ -1,0 +1,26 @@
+{
+    "name": "max_menvielle/max_framework",
+    "description": "Creando mi nuevo framework",
+    "minimum-stability": "beta",
+    "type": "project",
+    "keywords": [
+        "maxframework"
+    ],
+    "homepage": "http://localhost",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Max Menvielle",
+            "email": "maxmenvielle98@gmail.com",
+            "homepage": "http://localhost",
+            "role": "owner"
+        }
+    ],
+    "support": {
+        "email": "maxmenvielle98@gmail.com"
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "twbs/bootstrap": "5.0.2"
+    }
+}
