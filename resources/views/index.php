@@ -10,20 +10,23 @@
 
     <style>
         .logo{
-            width: 500px;
+            width: 280px;
         }
 
         .building{
             display: grid;
-            width: 100%;
             height: 100vh;
             place-content: center;
             background: linear-gradient(#82f689, #3853A2);
         }
+            .building img{
+                place-self: center;
+            }
 
         .building-text{
             margin-top: 48px;
             font-weight: bold;
+            text-align: center;
         }
         
     </style>
