@@ -12,7 +12,10 @@ class RoutesModel{
 
 		}else if (
 			
-            $route[1] == "index"){
+            $route[1] == "index" ||
+						$route[1] == 'etapas' ||
+						$route[1] == 'reglamento'
+						){
 
 			$page = "resources/views/$route[1].php";
 

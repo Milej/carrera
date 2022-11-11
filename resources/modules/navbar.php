@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-gradient">
   <div class="container container-fluid">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="index">
       <img src="./public/images/logo.png" alt="Logo" width="50">
        Desafío Los Reartes
     </a>
@@ -11,7 +11,7 @@
       <ul class="navbar-nav">
 
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">INICIO</a>
+          <a class="nav-link active" aria-current="page" href="index">INICIO</a>
         </li>
 
         <div class="dropdown">
@@ -20,10 +20,9 @@
           </a>
 
           <ul class="dropdown-menu" aria-labelledby="menu-carrera">
-            <li><a class="dropdown-item" href="#">Formato 3 etapas</a></li>
+            <li><a class="dropdown-item" href="etapas">Formato 3 etapas</a></li>
             <li><a class="dropdown-item" href="#">Recorrido y altimetría</a></li>
-            <li><a class="dropdown-item" href="#">Galería</a></li>
-            <li><a class="dropdown-item" href="#">Preguntas frecuentes</a></li>
+            <li><a class="dropdown-item" href="galeria">Galería</a></li>
           </ul>
         </div>
 
@@ -33,8 +32,9 @@
           </a>
 
           <ul class="dropdown-menu" aria-labelledby="menu-cronograma">
-            <li><a class="dropdown-item" href="#">Horario de largada</a></li>
-            <li><a class="dropdown-item" href="#">Reglamento</a></li>
+            <li><a class="dropdown-item" href="horario">Horario de largada</a></li>
+            <li><a class="dropdown-item" href="reglamento">Reglamento</a></li>
+            <li><a class="dropdown-item" href="acreditaciones">Acreditaciones</a></li>
           </ul>
         </div>
 
@@ -44,13 +44,21 @@
           </a>
 
           <ul class="dropdown-menu" aria-labelledby="menu-inscripciones">
-            <li><a class="dropdown-item" href="#">Acreditaciones</a></li>
+          <li><a class="dropdown-item" href="costos" target="_blank">Costos</a></li>
+            <li><a class="dropdown-item" href="https://speedbike.com.ar/Inscripcion/DesafioLosReartesVista" target="_blank">Inscriptos</a></li>
             <li><hr></li>
-            <li><a class="dropdown-item" href="#">> Ficha corredor</a></li>
-            <li><a class="dropdown-item" href="#">> Aut. Menores</a></li>
-            <li><a class="dropdown-item" href="#">> Deslinde de resp.</a></li>
-            <li><hr></li>
-            <li><a class="dropdown-item" href="#">Inscriptos</a></li>
+            <li><a class="dropdown-item" href="#" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"/>
+            </svg> Ficha corredor</a></li>
+            <li><a class="dropdown-item" href="./public/pdf/autorizacion-menores.pdf" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"/>
+            </svg> Aut. Menores</a></li>
+            <li><a class="dropdown-item" href="./public/pdf/deslinde.pdf" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"/>
+            </svg> Deslinde de responsabilidad</a></li>
           </ul>
         </div>
 
