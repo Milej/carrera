@@ -9,38 +9,27 @@
     <?php include './resources/modules/header.php'; ?>
 
     <style>
-        .logo{
-            width: 280px;
-        }
 
-        .building{
-            display: grid;
-            height: 100vh;
-            place-content: center;
-            background: linear-gradient(#82f689, #3853A2);
-        }
-            .building img{
-                place-self: center;
-            }
-
-        .building-text{
-            margin-top: 48px;
-            font-weight: bold;
-            text-align: center;
-        }
+        
         
     </style>
 
 </head>
+
+<body>
+
+    <video class="video-index" src="./public/video/intro.mp4" type="video/mp4" muted autoplay></video>
+
+    <div class="fondo-gradient"></div>
     
-<?php //include './resources/modules/navbar.php'; ?>
+    <?php include './resources/modules/navbar.php'; ?>
 
-    <div class="building">
+    <?php include './resources/modules/intro.php'; ?>
 
-        <img src="./public/images/logo.png" alt="" class="logo">
+    <?php include './resources/modules/sponsors.php'; ?>
 
-        <h1 class="building-text">SITIO EN CONSTRUCCIÓN</h1>
-
-    </div>
+    <?php include './resources/modules/footer.php'; ?>
+    
+</body>
 
 </html>
