@@ -23,20 +23,13 @@
             <li><a class="dropdown-item" href="etapas">Formato 3 etapas</a></li>
             <li><a class="dropdown-item" href="#">Recorrido y altimetría</a></li>
             <li><a class="dropdown-item" href="galeria">Galería</a></li>
-          </ul>
-        </div>
-
-        <div class="dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" id="menu-cronograma" data-bs-toggle="dropdown" aria-expanded="false">
-            CRONOGRAMA
-          </a>
-
-          <ul class="dropdown-menu" aria-labelledby="menu-cronograma">
-            <li><a class="dropdown-item" href="horario">Horario de largada</a></li>
             <li><a class="dropdown-item" href="reglamento">Reglamento</a></li>
-            <li><a class="dropdown-item" href="acreditaciones">Acreditaciones</a></li>
           </ul>
         </div>
+
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="cronograma">CRONOGRAMA</a>
+        </li>
 
         <div class="dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" id="menu-inscripciones" data-bs-toggle="dropdown" aria-expanded="false">

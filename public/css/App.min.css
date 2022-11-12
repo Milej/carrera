@@ -156,3 +156,53 @@ body{
         color: white;
         text-decoration: none;
     }
+
+
+.lightbox-gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    
+    .lightbox-gallery div > img {
+    max-width: 100%;
+    display: block;
+    }
+    
+    .lightbox-gallery div {
+    margin: 10px;
+    flex-basis: 180px;
+    }
+    
+    @media only screen and (max-width: 480px) {
+    .lightbox-gallery {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .lightbox > div {
+        margin-bottom: 10px;
+    }
+    }
+    
+    /*Lighbox CSS*/
+    
+    .lightbox {
+    display: none;
+    width: 80%;
+    height: 80%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 20;
+    padding-top: 8px;
+    box-sizing: border-box;
+    overflow: scroll;
+    }
+    
+    .lightbox img {
+    display: block;
+    margin: auto;
+    }
