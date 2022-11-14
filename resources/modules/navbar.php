@@ -37,7 +37,7 @@
           </a>
 
           <ul class="dropdown-menu" aria-labelledby="menu-inscripciones">
-          <li><a class="dropdown-item" href="costos" target="_blank">Costos</a></li>
+          <li><a class="dropdown-item" href="costos">Costos</a></li>
             <li><a class="dropdown-item" href="https://speedbike.com.ar/Inscripcion/DesafioLosReartesVista" target="_blank">Inscriptos</a></li>
             <li><hr></li>
             <li><a class="dropdown-item" href="#" target="_blank">

@@ -18,9 +18,8 @@
         }
         .contenedor-horario{
             display: grid;
-            place-content: center;
             width: 100%;
-            height: 80vh;
+            height: 100vh;
         }
     </style>
 
@@ -32,11 +31,25 @@
 
   <?php include './resources/modules/navbar.php'; ?>
 
-  <div class="contenedor-horario">
+  <div class="container container-fluid contenedor-horario">
 
-    <h1>Horario de largada</h1>
+    <h3>Sábado 18</h3>
 
-    <p>Llamada a la manga: 7:30 hs</p>
+    <p>Acreditaciones y expo. Los Reartes, Predio Carlo Farriol. De 10hs a 20hs.</p>
+    <hr>
+    <h3>Domingo 19</h3>
+
+    <p>Etapa 1: V.G.B. (Ruta 5KM 75)</p>
+    <hr>
+    
+    <h3>Lunes 20</h3>
+
+    <p>Etapa 2: Los Reartes (Predio Carlos Farriol)</p>
+    <hr>
+
+    <h3>Martes 21</h3>
+
+    <p>Etapa 3: Los Reartes (Predio Carlos Farriol). Premiación y asado con cuero.</p>
 
   </div>
 

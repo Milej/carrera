@@ -168,6 +168,8 @@ body{
     .lightbox-gallery div > img {
     max-width: 100%;
     display: block;
+    min-height: 100%;
+    width: fit-content;
     }
     
     .lightbox-gallery div {
@@ -190,8 +192,9 @@ body{
     
     .lightbox {
     display: none;
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    min-width: fit-content;
+    height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     position: fixed;
     top: 0;
@@ -199,10 +202,15 @@ body{
     z-index: 20;
     padding-top: 8px;
     box-sizing: border-box;
-    overflow: scroll;
+    overflow-y: scroll;
     }
     
     .lightbox img {
     display: block;
     margin: auto;
     }
+
+.container{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}

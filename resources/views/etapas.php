@@ -15,7 +15,7 @@
 
   <?php include './resources/modules/navbar.php'; ?>
 
-  <div class="container container-fluid my-5">
+  <div class="container container-fluid">
 
     <h1>ETAPAS</h1>
     <hr>

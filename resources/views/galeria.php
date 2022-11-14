@@ -27,6 +27,24 @@
         <div><img src="./public/images/galeria/4.jpeg" data-image-hd="./public/images/galeria/4.jpeg"></div>
         <div><img src="./public/images/galeria/5.jpeg" data-image-hd="./public/images/galeria/5.jpeg"></div>
         <div><img src="./public/images/galeria/6.jpeg" data-image-hd="./public/images/galeria/6.jpeg"></div>
+        <div><img src="./public/images/galeria/7.jpeg" data-image-hd="./public/images/galeria/7.jpeg"></div>
+        <div><img src="./public/images/galeria/8.jpeg" data-image-hd="./public/images/galeria/8.jpeg"></div>
+        <div><img src="./public/images/galeria/9.jpeg" data-image-hd="./public/images/galeria/9.jpeg"></div>
+        <div><img src="./public/images/galeria/10.jpeg" data-image-hd="./public/images/galeria/10.jpeg"></div>
+        <div><img src="./public/images/galeria/11.jpeg" data-image-hd="./public/images/galeria/11.jpeg"></div>
+        <div><img src="./public/images/galeria/12.jpeg" data-image-hd="./public/images/galeria/12.jpeg"></div>
+        <div><img src="./public/images/galeria/13.jpeg" data-image-hd="./public/images/galeria/13.jpeg"></div>
+        <div><img src="./public/images/galeria/14.jpeg" data-image-hd="./public/images/galeria/14.jpeg"></div>
+        <div><img src="./public/images/galeria/15.jpeg" data-image-hd="./public/images/galeria/15.jpeg"></div>
+        <div><img src="./public/images/galeria/16.jpeg" data-image-hd="./public/images/galeria/16.jpeg"></div>
+        <div><img src="./public/images/galeria/17.jpeg" data-image-hd="./public/images/galeria/17.jpeg"></div>
+        <div><img src="./public/images/galeria/18.jpeg" data-image-hd="./public/images/galeria/18.jpeg"></div>
+        <div><img src="./public/images/galeria/19.jpg" data-image-hd="./public/images/galeria/19.jpg"></div>
+        <div><img src="./public/images/galeria/20.jpg" data-image-hd="./public/images/galeria/20.jpg"></div>
+        <div><img src="./public/images/galeria/21.jpg" data-image-hd="./public/images/galeria/21.jpg"></div>
+        <div><img src="./public/images/galeria/22.jpg" data-image-hd="./public/images/galeria/22.jpg"></div>
+        <div><img src="./public/images/galeria/23.jpg" data-image-hd="./public/images/galeria/23.jpg"></div>
+        <div><img src="./public/images/galeria/24.jpg" data-image-hd="./public/images/galeria/24.jpg"></div>
     </div>
   </div>
 
