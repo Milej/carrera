@@ -1,4 +1,4 @@
-<div class="footer">
+<div class="top-redes">
     <div>Todos los derechos reservados &copy;</div>
 
     <div>

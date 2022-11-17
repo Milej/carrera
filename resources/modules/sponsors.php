@@ -21,13 +21,32 @@
 
 
         <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
-            <img src="./public/images/sponsors/logo-hp.png" alt="" class="img-sponsor">
+            <img src="./public/images/sponsors/logo-hidalgo.png" alt="" class="img-sponsor">
         </div>
         <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-lito.png" alt="" class="img-sponsor">
         </div>
         <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-sis.png" alt="" class="img-sponsor">
+        </div>
+
+        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-microon.jpeg" alt="" class="img-sponsor">
+        </div>
+        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-muni-sa.jpeg" alt="" class="img-sponsor">
+        </div>
+        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-turismo-sa.jpeg" alt="" class="img-sponsor">
+        </div>
+        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-vgb.jpeg" alt="" class="img-sponsor">
+        </div>
+        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-lr.png" alt="" class="img-sponsor">
+        </div>
+        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-jc.png" alt="" class="img-sponsor">
         </div>
         
     </div>
