@@ -5,10 +5,10 @@ define('APP_NAME', 'Desafio Los Reartes');
 
 // Carpeta de la aplicacion
 /* En caso de que la aplicación esté en la carpeta raíz del servidor dejar vacio */ 
-define('APP_FOLDER', '/');
+define('APP_FOLDER', '/carrera/');
 
 // Estado de aplicacion
-define('ENVIROMENT', 'production');
+define('ENVIROMENT', 'dev');
 
 // Timezone aplicacion
 define('TIMEZONE', 'America/Cordoba');

@@ -12,7 +12,8 @@
 
 <body>
 
-    <div class="fondo-gradient-background"></div>
+    <!-- <div class="fondo-gradient-background"></div> -->
+    <?php include './resources/modules/redes.php'; ?>
 
   <?php include './resources/modules/navbar.php'; ?>
 
@@ -50,7 +51,7 @@
 
   </div>
 
-  <?php include './resources/modules/footer.php'; ?>
+  <?php include './resources/modules/redes.php'; ?>
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 

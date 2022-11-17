@@ -22,7 +22,8 @@
 
   <body>
 
-    <div class="fondo-gradient-background"></div>
+    <!-- <div class="fondo-gradient-background"></div> -->
+    <?php include './resources/modules/redes.php'; ?>
 
     <?php include './resources/modules/navbar.php'; ?>
     
@@ -256,7 +257,7 @@
       </ol>
     </div>
 
-    <?php include './resources/modules/footer.php'; ?>
+    <?php include './resources/modules/redes.php'; ?>
       
   </body>
 

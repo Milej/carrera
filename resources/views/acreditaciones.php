@@ -28,7 +28,9 @@
 
 <body>
 
-    <div class="fondo-gradient-background"></div>
+    <!-- <div class="fondo-gradient-background"></div> -->
+
+    <?php include './resources/modules/redes.php'; ?>
 
   <?php include './resources/modules/navbar.php'; ?>
 
@@ -39,8 +41,6 @@
     <p>Sábado</p>
 
   </div>
-
-  <?php include './resources/modules/footer.php'; ?>
     
 </body>
 

@@ -23,7 +23,7 @@
             color: white;;
         }
 
-        .dropdown-toggle.show:focus{
+        .dropdown-toggle.show:focudevs{
             border-bottom: 2px solid white;
         }
 
@@ -48,6 +48,8 @@
     <?php include './resources/modules/intro.php'; ?>
 
     <?php include './resources/modules/sponsors.php'; ?>
+
+    <?php include './resources/modules/redes.php'; ?>
     
 </body>
 
