@@ -33,9 +33,7 @@
         <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-microon.jpeg" alt="" class="img-sponsor">
         </div>
-        <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
-            <img src="./public/images/sponsors/logo-muni-sa.jpeg" alt="" class="img-sponsor">
-        </div>
+        
         <div class="col-lg-3 col-sm-4 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-turismo-sa.jpeg" alt="" class="img-sponsor">
         </div>
