@@ -27,9 +27,9 @@
       Predio de los Gauchos - Ruta N° 5 Km 75
     </p>
     <p>
-      <span class="fw-bold">Recorrido:</span> 
-      Competitivas: 60 km 1200 mtrs desnivel<br>
-      Promocionales: 40 km 850 mtrs desnivel
+      <span class="fw-bold">Recorrido:</span><br>
+      Competitivas: 42km 1400mtrs desnivel<br>
+      Short race: 5km 400mtrs desnivel
     </p>
 
     <hr>
@@ -41,9 +41,9 @@
       Predio Carlos Farriol - Ruta N° S271, al lado de la Oficina de Turismo de Los Reartes.
     </p>
     <p>
-      <span class="fw-bold">Recorrido:</span> 
-      Competitivas: 60 km 1200 mtrs desnivel<br>
-      Promocionales: 40 km 850 mtrs desnivel
+      <span class="fw-bold">Recorrido:</span><br>
+      Competitivas: 60km 1200mtrs desnivel<br>
+      Short race: 40km 850mtrs desnivel
     </p>
 
     <hr>
@@ -55,8 +55,8 @@
       Predio de los Gauchos - Ruta N° 5 Km 75
     </p>
     <p>
-      <span class="fw-bold">Recorrido:</span> 
-      Competitivas y promocionales: 25 km 400 mtrs desnivel
+      <span class="fw-bold">Recorrido:</span> <br>
+      Competitivas y Short race: 25 km 400 mtrs desnivel
     </p>
   </div>
 

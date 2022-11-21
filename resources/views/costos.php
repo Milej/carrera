@@ -19,7 +19,7 @@
         .contenedor-horario{
             display: grid;
             width: 100%;
-            height: 80vh;
+            height: 70vh;
             place-content: center;
         }
 
@@ -48,12 +48,25 @@
     <span>Primeros 200 inscriptos van con chaleco de regalo</span>
     </p>
     
+    <hr>
 
+    <h4 class="fw-bold">1er periodo</h4>
     <h5>Individual: $22.000</h5>
-
     <h5>Parejas: $35.000</h5>
 
-    <h5>Remera: $5.500</h5>
+    <hr>
+
+    <h4 class="fw-bold">2do periodo 05/12 al 04/01</h4>
+    <h5>Individual: $24.000</h5>
+    <h5>Parejas: $38.000</h5>
+
+    <hr>
+
+    <h4 class="fw-bold">3er periodo 05/01 al cierre de inscripción</h4>
+    <h5>Individual: $26.000</h5>
+    <h5>Parejas: $40.000</h5>
+
+    <hr>
 
   </div>
 
