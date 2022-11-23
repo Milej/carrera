@@ -84,7 +84,7 @@
                     <li>Recorrido:</li>
                       <ul>
                         <li>Competitivas: 42 kms con 1400 de desnivel.</li>
-                        <li>Promocionales: 5 km cronoescalada 400 mtrs desnivel.</li>
+                        <li>Short Race: 5 km cronoescalada 400 mtrs desnivel.</li>
                       </ul>
                   </ul>
                 <li>2° ETAPA: </li>
@@ -95,7 +95,7 @@
                     <li>Recorrido:</li>
                       <ul>
                         <li>Competitivas: 60 km 1200 mtrs desnivel</li>
-                        <li>Promocionales: 40 km 850 mtrs desnivel</li>
+                        <li>Short Race: 40 km 850 mtrs desnivel</li>
                       </ul>
                   </ul>
                 <li>3° ETAPA: </li>
@@ -105,7 +105,7 @@
                     <li>Ruta N° S271, al lado de la Oficina de Turismo de Los Reartes./li>
                     <li>Recorrido:</li>
                       <ul>
-                        <li>Competitivas y promocionales: 25 km 400 mtrs desnivel</li>
+                        <li>Competitivas y Short Race: 25 km 400 mtrs desnivel</li>
                       </ul>
                   </ul>
               </ul>
@@ -245,7 +245,7 @@
           <ul>
             <li>General: Del 1 al 10, y del 1 al 5 premiación en efectivo.(COMPETITIVAS)</li>
             <li>Categorías: del 1 al 10, y del 1 al 3 premiación en efectivo.(COMPETITIVAS)</li>
-            <li>Promocionales: del 1 al 10 con regalos de sponsors</li>
+            <li>Short Race: del 1 al 10 con regalos de sponsors</li>
             <li>Parejas: del 1 al 10 con regalos de sponsors</li>
             <li>E-Bikes: del 1 al 10 con regalos de sponsors</li>
             <li>Copa por equipos: se contabilizarán los puntos de los 10 mejores de cada equipo y se premiará al TEAM que obtenga la mayor puntuación de la carrera.</li>
