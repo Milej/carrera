@@ -58,7 +58,6 @@
                 <li>Fotos de las distintas etapas de regalo</li>
                 <li>Limpieza del recorrido</li>
                 <li>Asado con cuero al término de la competencia, para los corredores</li>
-                <li>Servicio de masajes al término de cada etapa.</li>
               </ul>
             <li>Valor de la inscripción: los mismos serán publicados en INSCRIPCIONES de la web.</li>
             <li>Formas de pago: transferencia o deposito bancario</li>
@@ -210,12 +209,12 @@
                 <td></td>
               </tr>
               <tr>
-                <td>Promocional Damas A y B</td>
+                <td>Short Race Damas A y B</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Promocional Caballeros A y B</td>
+                <td>Short Race Caballeros A y B</td>
                 <td></td>
                 <td></td>
               </tr>
