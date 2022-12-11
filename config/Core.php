@@ -26,8 +26,8 @@ define('DB_USER_DEV', '');
 define('DB_PASSWORD_DEV', '');
 
 // URLS
-define('URL', 'http://localhost' . APP_FOLDER);
-define('IMG', 'http://localhost' . APP_FOLDER . 'public/images/');
+define('URL', 'http://desafiolosreartes.com.ar' . APP_FOLDER);
+define('IMG', 'http://desafiolosreartes.com.ar' . APP_FOLDER . 'public/images/');
 
 // Datos para envio correo
 define('MAIL_SECURE', '');
