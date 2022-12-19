@@ -4,20 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo APP_NAME;?> | Etapas</title>
+    <title><?php echo APP_NAME;?> | Recorrido</title>
 
     <?php include './resources/modules/header.php'; ?>
 
-    <style>
-        .footer{
-            position: fixed;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            z-index: 1030;
-        }
-      
-    </style>
 </head>
 
 <body>
@@ -32,19 +22,22 @@
 
     <h4>1° ETAPA: Villa Gral. Belgrano - San Agustín - Villa Gral. Belgrano</h4>
 
-    <p>
-      <span class="fw-bold">Lugar de concentración:</span> 
-      Predio de los Gauchos - Ruta N° 5 Km 75
-    </p>
-    <p>
-      <span class="fw-bold">Recorrido:</span><br>
-      Competitivas: 42km 1400mtrs desnivel<br>
-      Short race: 5km 400mtrs desnivel
-    </p>
+    <div class="row">
 
-    <hr>
+      <div class="col-lg-6 col-12">
+      <img src="<?php echo IMG; ?>altimetria/1-etapa-larga.jpeg" alt="" width="100%" height="100%">
+      </div>
+      <div class="col-lg-6 col-12">
+      <img src="<?php echo IMG; ?>altimetria/1-etapa-promocional.jpeg" alt="" width="100%" height="100%">
+      </div>
 
-    <h4>2° ETAPA: Los Reartes - Villa Berna - Los Reartes</h4>
+    </div>
+
+    
+
+    
+
+    <!-- <h4>2° ETAPA: Los Reartes - Villa Berna - Los Reartes</h4>
 
     <p>
       <span class="fw-bold">Lugar de concentración:</span> 
@@ -67,7 +60,7 @@
     <p>
       <span class="fw-bold">Recorrido:</span> <br>
       Competitivas y Short race: 25 km 400 mtrs desnivel
-    </p>
+    </p> -->
   </div>
 
   <?php include './resources/modules/footer.php'; ?>

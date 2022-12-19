@@ -51,7 +51,7 @@
 
   </div>
 
-  <?php include './resources/modules/redes.php'; ?>
+  <?php include './resources/modules/footer.php'; ?>
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 

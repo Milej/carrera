@@ -125,6 +125,17 @@ body{
     grid-template-columns: repeat(2, 1fr);
 }
 
+.footer{
+    padding: 12px;
+    background-color: rgb(2, 2, 2);
+    color: white;
+    text-align: center;
+    display: grid;
+    justify-content: space-between;
+    grid-auto-columns: 100%;
+    grid-template-columns: repeat(2, 1fr);
+}
+
 .btn-redes{
     padding: 0px 12px;
 }
@@ -209,36 +220,4 @@ body{
         z-index: -2;
     }
 
-@keyframes scroll{
-    0%{
-        transform: translateX(0);
-    }
-    100%{
-        transform: translateX(calc(-300px * 13));
-    }
-}
-
-.body-sponsors{
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 24px;
-}
-.slider{
-    height: 100px;
-    margin: auto;
-    overflow: hidden;
-    position: relative;
-    width: auto;
-}
-
-.slider .slide-track{
-    animation: scroll 25s linear infinite;
-    display: flex;
-    width: calc(300px * 26);
-}
-
-.slider .slide{
-    height: 100px;
-    width: 300px;
-}
 

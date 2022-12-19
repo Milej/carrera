@@ -22,7 +22,7 @@
 
           <ul class="dropdown-menu" aria-labelledby="menu-carrera">
             <li><a class="dropdown-item" href="etapas">Formato 3 etapas</a></li>
-            <li><a class="dropdown-item" href="#">Recorrido y altimetría</a></li>
+            <li><a class="dropdown-item" href="recorrido">Recorrido y altimetría</a></li>
             <li><a class="dropdown-item" href="galeria">Galería</a></li>
             <li><a class="dropdown-item" href="reglamento">Reglamento</a></li>
           </ul>

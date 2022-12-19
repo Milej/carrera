@@ -9,7 +9,7 @@
     <?php include './resources/modules/header.php'; ?>
 
     <style>
-        /* .footer{
+        .footer{
             position: fixed;
             right: 0;
             bottom: 0;
@@ -20,14 +20,14 @@
             display: grid;
             width: 100%;
             height: 100vh;
-        } */
+        }
     </style>
 
 </head>
 
 <body>
 
-    <!-- <div class="fondo-gradient-background"></div> -->
+
     <?php include './resources/modules/redes.php'; ?>
   <?php include './resources/modules/navbar.php'; ?>
 
@@ -53,7 +53,7 @@
 
   </div>
 
-  <?php include './resources/modules/redes.php'; ?>
+  <?php include './resources/modules/footer.php'; ?>
     
 </body>
 

@@ -17,7 +17,8 @@ class RoutesModel{
 						$route[1] == 'reglamento' ||
 						$route[1] == 'cronograma' ||
 						$route[1] == 'galeria' ||
-						$route[1] == 'costos'
+						$route[1] == 'costos' ||
+						$route[1] == 'recorrido'
 						){
 
 			$page = "resources/views/$route[1].php";

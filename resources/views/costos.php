@@ -70,7 +70,7 @@
 
   </div>
 
-  <?php include './resources/modules/redes.php'; ?>
+  <?php include './resources/modules/footer.php'; ?>
     
 </body>
 
