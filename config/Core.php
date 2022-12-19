@@ -5,7 +5,7 @@ define('APP_NAME', 'Desafio Los Reartes');
 
 // Carpeta de la aplicacion
 /* En caso de que la aplicación esté en la carpeta raíz del servidor dejar vacio */ 
-define('APP_FOLDER', '/carrera/');
+define('APP_FOLDER', '/');
 
 // Estado de aplicacion
 define('ENVIROMENT', 'dev');
@@ -26,7 +26,7 @@ define('DB_USER_DEV', '');
 define('DB_PASSWORD_DEV', '');
 
 // URLS
-define('URL_NAME', 'http://localhost');
+define('URL_NAME', 'http://desafiolosreartes.com.ar');
 define('URL', URL_NAME . APP_FOLDER);
 define('IMG', URL_NAME . APP_FOLDER . 'public/images/');
 
