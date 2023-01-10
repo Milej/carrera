@@ -220,4 +220,9 @@ body{
         z-index: -2;
     }
 
+@media only screen and (max-width: 600px) {
+    #sponsors-container{
+        margin-top: 45%;
+    }
+}
 
