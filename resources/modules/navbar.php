@@ -39,7 +39,7 @@
 
           <ul class="dropdown-menu" aria-labelledby="menu-inscripciones">
           <li><a class="dropdown-item" href="costos">Costos</a></li>
-            <li><a class="dropdown-item" href="https://speedbike.com.ar/Inscripcion/DesafioLosReartesVista" target="_blank">Inscriptos</a></li>
+            <li><a class="dropdown-item" href="https://mytime.com.ar/Inscripcion/DesafioLosReartesVista" target="_blank">Inscriptos</a></li>
             <li><hr></li>
             <li><a class="dropdown-item" href="./public/pdf/ficha.pdf " target="_blank">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
@@ -67,7 +67,7 @@
         </div>
 
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="https://speedbike.com.ar/Inscripcion/DesafioLosReartesInfo" target="_blank" id="btnInscribirse">INSCRIBIRME</a>
+          <a class="nav-link" aria-current="page" href="https://mytime.com.ar/Inscripcion/DesafioLosReartesInfo" target="_blank" id="btnInscribirse">INSCRIBIRME</a>
         </li>
 
       </ul>

@@ -4,6 +4,10 @@
         <h1>NOS ACOMPAÑAN</h1>
 
         <div class="col-lg-2 col-3 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-sram.png" alt="" class="img-sponsor">
+        </div>
+
+        <div class="col-lg-2 col-3 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-cc9.png" alt="" class="img-sponsor">
         </div>
 
@@ -58,6 +62,13 @@
             </div>
             <div class="col-lg-1 col-sm-2 col-3 text-center img-sponsor-container">
                 <img src="./public/images/sponsors/logo-zeven.jpeg" alt="" class="img-sponsor">
+            </div>
+            <div class="col-lg-1 col-sm-2 col-3 text-center img-sponsor-container">
+                <img src="./public/images/sponsors/logo-fotografia.png" alt="" class="img-sponsor">
+            </div>
+
+            <div class="col-lg-1 col-sm-2 col-3 text-center img-sponsor-container">
+                <img src="./public/images/sponsors/logo-panificacion.png" alt="" class="img-sponsor">
             </div>
         </div>
 
