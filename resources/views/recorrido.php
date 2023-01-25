@@ -19,10 +19,12 @@
 
     <h1>ETAPAS</h1>
     <hr>
-
-    <h4>1° ETAPA: Villa Gral. Belgrano - San Agustín - Villa Gral. Belgrano</h4>
-
+    
     <div class="row">
+
+      <div class="col-12">
+        <h4>1° ETAPA: Villa Gral. Belgrano - San Agustín - Villa Gral. Belgrano</h4>
+      </div>
 
       <div class="col-lg-6 col-12">
       <img src="<?php echo IMG; ?>altimetria/1-etapa-larga.jpeg" alt="" width="100%" height="100%">
@@ -31,27 +33,32 @@
       <img src="<?php echo IMG; ?>altimetria/1-etapa-promocional.jpeg" alt="" width="100%" height="100%">
       </div>
 
+      <hr class="my-5">
+
+      <div class="col-12">
+        <h4>2° ETAPA: Los Reartes - Villa Berna - Los Reartes</h4>
+      </div>
+
+      <div class="col-lg-6 col-12">
+      <img src="<?php echo IMG; ?>altimetria/2-etapa-larga.jpeg" alt="" width="100%" height="100%">
+      </div>
+      <div class="col-lg-6 col-12">
+      <img src="<?php echo IMG; ?>altimetria/2-etapa-corta.jpeg" alt="" width="100%" height="100%">
+      </div>
+
     </div>
 
     
 
-    
+    <div class="row">
 
-    <!-- <h4>2° ETAPA: Los Reartes - Villa Berna - Los Reartes</h4>
+      
 
-    <p>
-      <span class="fw-bold">Lugar de concentración:</span> 
-      Predio Carlos Farriol - Ruta N° S271, al lado de la Oficina de Turismo de Los Reartes.
-    </p>
-    <p>
-      <span class="fw-bold">Recorrido:</span><br>
-      Competitivas: 60km 1200mtrs desnivel<br>
-      Short race: 40km 850mtrs desnivel
-    </p>
+    </div>
 
     <hr>
 
-    <h4>3° ETAPA: Los Reartes - Loma del Tigre - Los Reartes</h4>
+    <!-- <h4>3° ETAPA: Los Reartes - Loma del Tigre - Los Reartes</h4>
 
     <p>
       <span class="fw-bold">Lugar de concentración:</span> 
