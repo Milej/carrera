@@ -71,7 +71,7 @@
                 <img src="./public/images/sponsors/logo-panificacion.png" alt="" class="img-sponsor">
             </div>
             <div class="col-lg-1 col-sm-2 col-4 text-center img-sponsor-container">
-                <img src="./public/images/sponsors/logo-cropper.png" alt="" class="img-sponsor" targetr>
+                <img src="./public/images/sponsors/logo-cropper.png" alt="" class="img-sponsor">
             </div>
         </div>
 

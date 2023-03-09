@@ -66,7 +66,7 @@
           </a>
 
           <ul class="dropdown-menu" aria-labelledby="menu-inscripciones">
-            <li><a class="dropdown-item" href="https://mytime.com.ar/Home/Clasifica2023">2023</a></li>
+            <li><a class="dropdown-item" href="https://mytime.com.ar/Home/Clasifica2023" target="_blank">2023</a></li>
           </ul>
         </div>
 
