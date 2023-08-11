@@ -67,11 +67,12 @@
 
           <ul class="dropdown-menu" aria-labelledby="menu-inscripciones">
             <li><a class="dropdown-item" href="https://mytime.com.ar/Home/Clasifica2023" target="_blank">2023</a></li>
+            <li><a class="dropdown-item" href="#">2024</a></li>
           </ul>
         </div>
 
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="https://mytime.com.ar/Inscripcion/DesafioLosReartesInfo" target="_blank" id="btnInscribirse">INSCRIBIRME</a>
+          <a class="nav-link" aria-current="page" href="#" target="_blank" id="btnInscribirse">INSCRIBIRME</a>
         </li>
 
       </ul>

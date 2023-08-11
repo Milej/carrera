@@ -20,7 +20,7 @@
         </div>
 
         <div class="col-lg-2 col-6 text-center img-sponsor-container">
-            <img src="./public/images/sponsors/logo-sb.png" alt="" class="img-sponsor">
+            <img src="./public/images/sponsors/logo-sumitate.png" alt="" class="img-sponsor">
         </div>
 
 
