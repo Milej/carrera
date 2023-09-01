@@ -44,7 +44,8 @@
 
   <div class="container container-fluid contenedor-horario">
 
-    <p>
+    <p>Pronto tendremos los costos disponibles</p>
+    <!-- <p>
     Costos de inscripción<br>
     <span>Primeros 200 inscriptos van con chaleco de regalo</span>
     </p>
@@ -65,7 +66,7 @@
 
     <h4 class="fw-bold">3er periodo 05/01 al cierre de inscripción</h4>
     <h5>Individual: $26.000</h5>
-    <h5>Parejas: $40.000</h5>
+    <h5>Parejas: $40.000</h5> -->
 
     <hr>
 
