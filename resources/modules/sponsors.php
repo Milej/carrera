@@ -12,10 +12,6 @@
         </div>
 
         <div class="col-lg-2 col-6 text-center img-sponsor-container">
-            <img src="./public/images/sponsors/logo-nutremax.png" alt="" class="img-sponsor">
-        </div>
-
-        <div class="col-lg-2 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-optica.png" alt="" class="img-sponsor">
         </div>
 
