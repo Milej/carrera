@@ -32,6 +32,9 @@
             <img src="./public/images/sponsors/logo-microon.jpeg" alt="" class="img-sponsor">
         </div>
         
+        <div class="col-lg-2 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/mervick.jpeg" alt="" class="img-sponsor">
+        </div>
         
         
         <div class="col-12 row">
