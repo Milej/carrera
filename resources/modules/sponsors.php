@@ -84,6 +84,9 @@
             <div class="col-lg-1 col-sm-2 col-3 text-center img-sponsor-container">
                 <img src="./public/images/sponsors/logo-lr.png" alt="" class="img-sponsor">
             </div>
+            <div class="col-lg-1 col-sm-2 col-3 text-center img-sponsor-container" style="background-color: black;">
+                <img src="./public/images/sponsors/logo-comuna-pdg.png" alt="" class="img-sponsor">
+            </div>
         </div>
     </div>
 </div>
