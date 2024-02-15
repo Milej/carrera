@@ -19,13 +19,12 @@
             <img src="./public/images/sponsors/logo-sumitate.png" alt="" class="img-sponsor">
         </div>
 
-
         <div class="col-lg-2 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/logo-hidalgo.png" alt="" class="img-sponsor">
         </div>
-        
+
         <div class="col-lg-2 col-6 text-center img-sponsor-container">
-            <img src="./public/images/sponsors/logo-sis.png" alt="" class="img-sponsor">
+            <img src="./public/images/sponsors/logo-lito.png" alt="" class="img-sponsor">
         </div>
 
         <div class="col-lg-2 col-6 text-center img-sponsor-container">
@@ -35,11 +34,15 @@
         <div class="col-lg-2 col-6 text-center img-sponsor-container">
             <img src="./public/images/sponsors/mervick.jpeg" alt="" class="img-sponsor">
         </div>
+
+        <div class="col-lg-2 col-6 text-center img-sponsor-container">
+            <img src="./public/images/sponsors/logo-muecas.jpg" alt="" class="img-sponsor">
+        </div>
         
         
         <div class="col-12 row">
             <div class="col-lg-1 col-sm-2 col-4 text-center img-sponsor-container">
-                <img src="./public/images/sponsors/logo-lito.png" alt="" class="img-sponsor">
+                <img src="./public/images/sponsors/logo-sis.png" alt="" class="img-sponsor">
             </div>
             <div class="col-lg-1 col-sm-2 col-4 text-center img-sponsor-container">
                 <img src="./public/images/sponsors/logo-jc.png" alt="" class="img-sponsor">
@@ -58,9 +61,6 @@
             </div>
             <div class="col-lg-1 col-sm-2 col-4 text-center img-sponsor-container">
                 <img src="./public/images/sponsors/logo-ulpiano.png" alt="" class="img-sponsor">
-            </div>
-            <div class="col-lg-1 col-sm-2 col-4 text-center img-sponsor-container">
-                <img src="./public/images/sponsors/logo-zeven.jpeg" alt="" class="img-sponsor">
             </div>
             <div class="col-lg-1 col-sm-2 col-4 text-center img-sponsor-container">
                 <img src="./public/images/sponsors/logo-fotografia.png" alt="" class="img-sponsor">
